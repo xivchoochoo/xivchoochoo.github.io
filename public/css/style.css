@@ -53,3 +53,26 @@ table {
   border-color: #285e8e;
   ext-decoration: none;
 }
+
+footer {
+  display:block;
+  font-size:10px;
+  color:#aaa;
+  text-align:center;
+  margin-bottom:10px;
+}
+footer a {
+  display:inline-block;
+  height:25px;
+  line-height:25px;
+  color:#aaa;
+  text-decoration:underline;
+}
+footer a:hover {
+  color:#aaa;
+}
+
+.logo {
+  border:1px solid #000000;
+  border-radius: 50%;
+}

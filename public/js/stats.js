@@ -6,6 +6,6 @@
 	m=f.getElementsByTagName('script')[0];
 	o.async=1; o.src=t; o.id='fathom-script';
 	m.parentNode.insertBefore(o,m)
-})(document, window, 'https://stats.captainark.net/tracker.js', 'fathom');
+})(document, window, '//stats.captainark.net/tracker.js', 'fathom');
 fathom('set', 'siteId', 'IDYPX');
 fathom('trackPageview');

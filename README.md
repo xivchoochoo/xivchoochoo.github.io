@@ -1,5 +1,9 @@
 # CaptainArk's Hunt Train Tracker
 
+
+<!-- @import "[TOC]" {cmd="toc" depthFrom=2 depthTo=6 orderedList=false} -->
+
+
 ## What is this?
 
 This website is a FFXIV A hunt location tracker that aims to help you run trains on your server!

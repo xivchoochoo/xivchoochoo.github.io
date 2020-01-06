@@ -32,6 +32,8 @@ Alternatively, you can use [Horus](https://horus-hunts.net/) for that as well.
 
 The [Centurio Hunts](https://discord.gg/dZTgnpv) discord allows you to announce your train to a whole lot of people from your datacenter, and to join currently ongoing ones!
 
+[Cable Monkey's Hunt Maps](https://cablemonkey.us/huntmap2/) is the source of the maps used on this site!
+
 ## Is the code available anywhere?
 
 [Yes, here!](https://git.captainark.net/captainark/xivhunt)

@@ -1,7 +1,17 @@
-# CaptainArk's Hunt Train Tracker
-
+# FFXIV Hunt Train Tracker
 
 <!-- @import "[TOC]" {cmd="toc" depthFrom=2 depthTo=6 orderedList=false} -->
+<!-- code_chunk_output -->
+
+- [What is this?](#what-is-this)
+- [How do I use it?](#how-do-i-use-it)
+- [Anything I should know about A-Ranks?](#anything-i-should-know-about-a-ranks)
+- [What other resources should I use to run trains?](#what-other-resources-should-i-use-to-run-trains)
+- [Is the code available anywhere?](#is-the-code-available-anywhere)
+- [Who are you?](#who-are-you)
+- [How do I contact you?](#how-do-i-contact-you)
+
+<!-- /code_chunk_output -->
 
 
 ## What is this?
@@ -28,11 +38,11 @@ If an A-Rank is not killed within 24 hours of spawning, it despawns. Despawned A
 
 In-game hunting linkshells (LS) and cross-world linkshells (CWLS) are a must for people to be informed of your train!
 
-Ariyala's [HuntTracker](http://ffxiv.ariyala.com/HuntTracker/) allows you to check if a hunt is open, and to mark them as dead once your train kills them!
+[Horus Hunt Tracker](https://horus-hunts.net/) allows you to check if a hunt is open, and to mark them as dead once your train kills them!
 
 Maps on the tracker are in the same order as this tracker to help with marking!
 
-Alternatively, you can use [Horus](https://horus-hunts.net/) for that as well.
+Alternatively, you can use Ariyala's [HuntTracker](http://ffxiv.ariyala.com/HuntTracker/) for that as well.
 
 The [Centurio Hunts](https://discord.gg/dZTgnpv) discord allows you to announce your train to a whole lot of people from your datacenter, and to join currently ongoing ones!
 

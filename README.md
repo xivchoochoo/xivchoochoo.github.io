@@ -20,7 +20,7 @@ This website is a FFXIV A hunt location tracker that aims to help you run trains
 
 ## How do I use it?
 
-From the [landing page](https://xivhunt.captainark.net), click on the banner of the expansion you plan to scout.
+From the [landing page](https://xivchoochoo.github.io), click on the banner of the expansion you plan to scout.
 
 With the help of the markers, check possible spawn points for the A-Ranks in the current area.
 
@@ -44,13 +44,15 @@ Maps on the tracker are in the same order as this tracker to help with marking!
 
 Alternatively, you can use Ariyala's [HuntTracker](http://ffxiv.ariyala.com/HuntTracker/) for that as well.
 
-The [Centurio Hunts](https://discord.gg/dZTgnpv) discord allows you to announce your train to a whole lot of people from your datacenter, and to join currently ongoing ones!
+The [Faloop.app](https://discord.gg/wQt8yzE) discord allows you to announce your train to a whole lot of people from your datacenter, and to join currently ongoing ones!
+
+If you're interested in S Ranks, [Faloop.app](https://faloop.app/) is a great ressource for those as well!
 
 [Cable Monkey's Hunt Maps](https://cablemonkey.us/huntmap2/) is the source of the maps used on this site!
 
 ## Is the code available anywhere?
 
-[Yes, here!](https://git.captainark.net/captainark/xivhunt)
+[Yes, here!](https://github.com/xivchoochoo/xivchoochoo.github.io)
 
 ## Who are you?
 
@@ -58,6 +60,6 @@ I'm [Moemie Valesti @ Omega](https://eu.finalfantasyxiv.com/lodestone/character/
 
 ## How do I contact you?
 
-You can find me on the [Centurio Hunts](https://discord.gg/dZTgnpv) discord server. I'm *[Omega] Moemie Valesti* there.
+You can find me on the [Faloop.app](https://discord.gg/wQt8yzE) discord server. I'm *[Omega] Moemie Valesti* there.
 
 You can also reach me [by email](mailto:contact@captainark.net)!
